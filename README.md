@@ -40,3 +40,6 @@ This project focuses on:
 - Event handling
 - Separating structure, style, and behavior
 - Basic DOM manipulation techniques
+
+## Live Demo
+- https://rustom-yadav.github.io/favIcon-project/
