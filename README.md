@@ -16,13 +16,13 @@ The goal is to showcase clean DOM manipulation, class toggling, and basic UI sta
 - JavaScript (ES6)
 
 ## Project Structure
-```
+
 favorite-icon-project/
 │
 ├── favIcon.html
 ├── favIcon.css
 └── favIcon.js
-```         
+         
 
 ## How It Works
 - The icon listens for a click event
